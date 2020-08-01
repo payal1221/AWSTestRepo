@@ -1,1 +1,3 @@
-# AWSTestRepo
+# maven-project
+
+Simple Maven Project
